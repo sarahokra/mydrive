@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gUK-E2-TtUPT7XsS_8Ry-10" value="Entity" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="520" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gUK-E2-TtUPT7XsS_8Ry-11" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="150" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="210" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gUK-E2-TtUPT7XsS_8Ry-13" value="Relationship" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
@@ -19,8 +19,20 @@
             <mxPoint x="634" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gUK-E2-TtUPT7XsS_8Ry-20" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="300" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="gUK-E2-TtUPT7XsS_8Ry-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="gUK-E2-TtUPT7XsS_8Ry-11" target="gUK-E2-TtUPT7XsS_8Ry-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="220" as="sourcePoint" />
+            <mxPoint x="480" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gUK-E2-TtUPT7XsS_8Ry-22" value="Strong enity set" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gUK-E2-TtUPT7XsS_8Ry-23" value="Week enity set" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gUK-E2-TtUPT7XsS_8Ry-24" value="Identifying relationship" style="text;whiteSpace=wrap;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="339" y="210" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
